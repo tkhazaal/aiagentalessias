@@ -27,15 +27,41 @@ joining, they complete all three:
 Activated members within 7 days / total members who joined that week x 100
 ```
 
+## Source of truth
+
+The full role manual lives in [`docs/playbook.md`](docs/playbook.md) (searchable
+Markdown), transcribed from the authoritative source PDF
+[`docs/Alessia-Playbook.pdf`](docs/Alessia-Playbook.pdf). If the two ever differ,
+the PDF is authoritative.
+
 ## Core workflows
 
 - Daily Activation Power Hour
-- Golden Path member touchpoints (Day 0, 1, 2, 3, 7)
+- Golden Path member touchpoints (Day 0, 1, 3, 7)
 - Weekly orientation and onboarding call prep
 - Cancellation and retention batch
 - Weekend responsiveness check-in
 - Wins and testimonials
 - Qualifying and setting members for Tania
+
+## Confirmed details (from the Playbook)
+
+- **Community price:** $89 (the one front door)
+- **Premium investment range:** ~$4K–$15K (money question)
+- **"Activated":** entire Start Here (Calm Start + 5-part series) + one post + one
+  reply, within 7 days
+- **Churn target:** trending down toward ~10–12%
+- **Booking rule (BANT):** do not book anyone who wants to start more than a week
+  out
+- **Churn tool:** Skool Churn Insights (skootcrm.com/skool-churn-insights)
+- **Escalation:** crisis / self-harm / safety → Tania immediately; refund /
+  chargeback / "fraud" / "unauthorized" → Eti/Tania
+
+### Still to confirm (finalized or unlinked in the Playbook)
+
+Application link · orientation call + replay links · Start Here location/link ·
+approved pitch slides/words · activation & retention tracker location · ClickUp
+location.
 
 ## Ownership boundaries
 
@@ -47,6 +73,5 @@ Activated members within 7 days / total members who joined that week x 100
 
 ## Status
 
-This repository is being initialized. Current operational details (pricing,
-links, tracker locations, escalation path) are confirmed by Alessia or Tania
-before use.
+The Playbook is loaded as the source of truth. The unlinked operational details
+listed above are confirmed by Alessia or Tania before use.
